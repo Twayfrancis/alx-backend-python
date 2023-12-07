@@ -8,4 +8,3 @@ def floor(n: float) -> int:
     """
     import math
     return math.floor(n)
-    
